@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23c7782f-b638-49a0-ae95-3c9832db293f" name="Default Changelist" comment="" />
+    <list default="true" id="23c7782f-b638-49a0-ae95-3c9832db293f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/lambert2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/lambert2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Zombunny.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Zombunny.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,27 +22,71 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_ToonRampAlbedo.shader.zip/ToonRampAlbedo.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ToonRampAlbedo.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BumpShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/DOTSHader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ShaderWithProperties.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/RimShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_CustomLights.zip/BasicBlinn.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BasicBlinn.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowNormals.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartSpecPBR.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/NormalPlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartPBR.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Hologram.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BasicLambert.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/NewSurfaceShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ShaderWithProperties.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/NormalPlay.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ShaderInheritor.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShowNormals.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BumpShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/DOTSHader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/RimShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/StandartPBR.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/StandartSpecPBR.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BasicLambert.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ToonRampAlbedo.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BasicBlinn.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Hologram.shader" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1c4u4eQaWTtALMV0m2jvUGWQdAu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,11 +99,25 @@
       <option name="presentableId" value="Default" />
       <updated>1589799997510</updated>
       <workItem from="1589800002238" duration="2695000" />
+      <workItem from="1590141400597" duration="709000" />
+      <workItem from="1590144653853" duration="2000" />
+      <workItem from="1590147748051" duration="884000" />
+      <workItem from="1590148651305" duration="294000" />
+      <workItem from="1590148965786" duration="3626000" />
+      <workItem from="1591867695699" duration="141000" />
+      <workItem from="1591867861841" duration="46000" />
+      <workItem from="1591867923929" duration="15000" />
+      <workItem from="1591868162484" duration="627000" />
+      <workItem from="1591868811851" duration="3485000" />
+      <workItem from="1594320182519" duration="3944000" />
+      <workItem from="1594840647288" duration="2216000" />
+      <workItem from="1594911050682" duration="250000" />
+      <workItem from="1595409665059" duration="7897000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
@@ -62,5 +131,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="148" y="345" key="SettingsEditor" timestamp="1591871601083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="148" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1591871601083" />
   </component>
 </project>
