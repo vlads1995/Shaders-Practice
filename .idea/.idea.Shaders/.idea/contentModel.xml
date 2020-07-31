@@ -6,20 +6,37 @@
     <e p="D:\Program Files\Unity\Unity Projects\Shaders" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AutoRotation.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="BaseShaderGUI.cs" t="Include" />
+          <e p="ShaderGUIWithProps.cs" t="Include" />
           <e p="Shaders" t="Include">
+            <e p="AdvancedOutline 1.shader" t="Include" />
+            <e p="AdvancedStencilWindow.shader" t="Include" />
             <e p="BasicBlinn.shader" t="Include" />
             <e p="BasicLambert.shader" t="Include" />
+            <e p="BlendTest.shader" t="Include" />
+            <e p="BumpDiffuseStencil.shader" t="Include" />
             <e p="BumpShader.shader" t="Include" />
+            <e p="ColorVF Challenge.shader" t="Include" />
+            <e p="ColorVF.shader" t="Include" />
+            <e p="DiffuseShadows.shader" t="Include" />
             <e p="DOTSHader.shader" t="Include" />
+            <e p="Extrude.shader" t="Include" />
+            <e p="Glass.shader" t="Include" />
+            <e p="Hole.shader" t="Include" />
             <e p="Hologram.shader" t="Include" />
             <e p="NormalPlay.shader" t="Include" />
             <e p="RimShader.shader" t="Include" />
             <e p="ShaderWithProperties.shader" t="Include" />
+            <e p="ShadowChallenge.shader" t="Include" />
+            <e p="SimpleOutline.shader" t="Include" />
             <e p="StandartPBR.shader" t="Include" />
             <e p="StandartSpecPBR.shader" t="Include" />
             <e p="ToonRampAlbedo.shader" t="Include" />
             <e p="TransparencyLeaves.shader" t="Include" />
+            <e p="TransparentForParticles.shader" t="Include" />
+            <e p="Wall.shader" t="Include" />
           </e>
           <e p="ShowNormals.cs" t="Include" />
         </e>

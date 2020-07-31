@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="23c7782f-b638-49a0-ae95-3c9832db293f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shaders/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/lambert2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/lambert2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Zombunny.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Zombunny.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/LeavesMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/LeavesMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/capHologram.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/capHologram.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/zombunny.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/zombunny.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shaders/FirstSurfaceShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +49,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_ToonRampAlbedo.shader.zip/ToonRampAlbedo.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ToonRampAlbedo.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BaseShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/AdvancedStencilWindow.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BumpShader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/DOTSHader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ShaderWithProperties.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Outlines.zip/AdOutline.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ShadowChallenge.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/DiffuseShadows.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/RimShader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_CustomLights.zip/BasicBlinn.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Extrude.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BasicBlinn.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_VFColouredMat.shader.zip/VFColouredMat.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowNormals.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartSpecPBR.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ColorVF.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/NormalPlay.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartPBR.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Hologram.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BlendTest.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/BasicLambert.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/AdvStencils/BumpDiffuseStencil.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/SimpleOutline.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Hole.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/AdvancedOutline 1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/DOTSHader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShaderGUIWithProps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Wall.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/480B5A3B-D321-4CE5-831F-6DD8C68FDC55/d9/0b066572/MaterialProperty.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_VFDiffuseColouredShadows.shader.zip/VFDiffuseColouredShadows.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WallHole/Wall.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WallHole/Hole.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ShaderWithProperties.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/ColorVF Challenge.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartSpecPBR.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AutoRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/StandartPBR.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/TransparentForParticles.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/Glass.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,8 +103,25 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BasicLambert.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ToonRampAlbedo.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BasicBlinn.shader" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Hologram.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShaderGUIWithProps.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparencyLeaves.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/TransparentForParticles.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BaseShaderGUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Wall.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Hole.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BlendTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/AutoRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/AdvancedStencilWindow.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/BumpDiffuseShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ColorVF.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ColorVF Challenge.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/DiffuseShadows.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ShadowChallenge.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Outline.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/AdvancedOutline 1.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Extrude.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/Glass.shader" />
       </list>
     </option>
   </component>
@@ -112,7 +177,12 @@
       <workItem from="1594320182519" duration="3944000" />
       <workItem from="1594840647288" duration="2216000" />
       <workItem from="1594911050682" duration="250000" />
-      <workItem from="1595409665059" duration="7897000" />
+      <workItem from="1595409665059" duration="8338000" />
+      <workItem from="1595521772851" duration="2163000" />
+      <workItem from="1595574008097" duration="10902000" />
+      <workItem from="1596095486677" duration="2738000" />
+      <workItem from="1596110813300" duration="2631000" />
+      <workItem from="1596195921784" duration="7965000" />
     </task>
     <servers />
   </component>
@@ -141,5 +211,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="148" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1591871601083" />
+    <state x="1279" y="0" width="1250" height="1386" key="dock-window-1" timestamp="1596197348188">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1279" y="0" width="1250" height="1386" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1596197348188" />
+    <state x="1154" y="0" width="1250" height="1386" key="dock-window-2" timestamp="1596198739143">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1154" y="0" width="1250" height="1386" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1596198739143" />
+    <state x="1052" y="0" width="1250" height="1386" key="dock-window-3" timestamp="1596202604286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1052" y="0" width="1250" height="1386" key="dock-window-3/0.0.2560.1400@0.0.2560.1400" timestamp="1596202604286" />
   </component>
 </project>

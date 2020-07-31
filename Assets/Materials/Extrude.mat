@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: zombunny
-  m_Shader: {fileID: 4800000, guid: 155dc1365f7940e4e9850e4a6a1f040d, type: 3}
+  m_Name: Extrude
+  m_Shader: {fileID: 4800000, guid: dc3acfff5afc75446b8e2b73b4b808b2, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -101,6 +101,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _Emission: 0
+    - _Extrude: 0
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1

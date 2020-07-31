@@ -8,7 +8,7 @@
     SubShader
     {
         Tags { "Queue"="Transparent" }
-      
+    
         CGPROGRAM
         #pragma surface surf Lambert alpha:fade
      
